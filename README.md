@@ -1,4 +1,4 @@
-MP3-weblog-links-or-RSS-mp3-links---iTunes-RSS-Podcast
+MP3 links to iTunes RSS Podcast
 ======================================================
 
 Based on the work by Nick Ciske http://nickciske.com/blog/
